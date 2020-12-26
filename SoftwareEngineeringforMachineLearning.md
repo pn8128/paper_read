@@ -44,7 +44,7 @@ IEEE/ACM 2019で発表されたソフトウェア工学の論文「[Software Eng
 ## 1 機械学習を用いた開発を取り巻く背景
 ### 1.1 機械学習ワークフロー
 機械学習を用いた開発をする際には、以下9つのステップがある。(以下図1とする。)
-![9つのステップ](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/545134/727bfcc1-bc7d-473e-d037-ab3392ae273e.png)
+![9つのステップ](./img/SoftwareEngineeringforMachineLearning.png)
 
 #### Model Requirements
 設計者が機械学習で実装可能な機能と製品に有用な機能を決定するステップ。
